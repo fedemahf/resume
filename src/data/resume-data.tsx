@@ -42,16 +42,6 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Ensolvers",
-      link: "https://ensolvers.com",
-      badges: ["Full-time"],
-      title: "Software Engineer",
-      start: "Apr 2022",
-      end: "Present",
-      description:
-        "Fullstack development (Spring Boot, React) and DevOps (AWS, BitBucket, GitHub) in multiple projects. Also participated in tech recruiting for potential SWE candidates.",
-    },
-    {
       company: "Hyros",
       link: "https://hyros.com",
       badges: ["Contract"],
@@ -59,7 +49,7 @@ export const RESUME_DATA = {
       start: "Jan 2023",
       end: "Present",
       description:
-        "Created and configured iOS and Android apps in App Store and Play Store. Developed mobile pipelines using AWS CodeCommit, AWS CodeBuild, GitHub Actions and Jenkins.",
+        "Fullstack development (Spring Boot, React) and DevOps (AWS, BitBucket, GitHub). Created and configured iOS and Android apps in App Store and Play Store. Developed mobile pipelines using AWS CodeCommit, AWS CodeBuild, GitHub Actions and Jenkins. Created Bitbucket pipelines and CodeBuild projects for automated E2E testing with Cypress.",
     },
     {
       company: "Nue Life Health",
