@@ -11,6 +11,9 @@ import { PrintButton } from "@/components/print-button";
 export const metadata: Metadata = {
   title: `${RESUME_DATA.name} | ${RESUME_DATA.about}`,
   description: RESUME_DATA.summary,
+  alternates: {
+    canonical: "https://federico.mahfoud.ar/resume"
+  }
 };
 
 export default function Page() {
